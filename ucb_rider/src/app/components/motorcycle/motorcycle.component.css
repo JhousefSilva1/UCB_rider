@@ -1,0 +1,241 @@
+*{
+    font-family: 62.5%;
+}
+.inicio{
+    margin-top: 15%;
+
+}
+
+.cards{
+    width: 100%;
+}
+
+.nuestras-motos{
+    width: 100%;
+    height: 100px;
+    background-color: #ffcc00;
+    text-align: center;
+    padding-top: 25px;
+    color: #ffffff;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-weight:bold;
+}
+
+.img-card1{
+    width: 80%;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.title-marcas{
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding-top: 2.5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.text-marcas{
+    text-align: center;
+    font-size: 1.5rem;
+    padding-top: 2.5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.img-cards{
+    width: 30%;
+    height: 70%;
+
+    color: white;
+    margin-top: 1.5%;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    border-radius: 3%;
+
+
+}
+.cards-moto{
+    width: 100%;
+    height: auto;
+    background-color: rgb(75, 71, 77);
+    padding-bottom: 3%;
+    padding-top: 3%;
+    display: flex;
+    
+}
+.suzuki{
+    margin-top: 2%;
+    width: 30%;
+    height: 100%;
+    background-color: white;
+    margin-left: 2.5%;
+    margin-bottom: 2%;
+    border-radius: 9%;
+    position: relative;
+
+}
+
+.title-suzuki{
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding-top: 2.5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+.text-suzuki{
+    text-align: center;
+    font-size: 1.5rem;
+    padding-top: 2.5%;
+    padding-right: 20%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+
+}
+.img-suzuki{
+    width: 70%;
+    height: 70%;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.precio{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-top: 2.5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+.precio-suzuki{
+    text-align: center;
+    font-size: 2.5rem;
+    padding-top: 2.5%;
+    padding-bottom: 2.0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+}
+/* 
+YAMAHA
+ */
+ .yamaha{
+    margin-top: 2%;
+    width: 30%;
+    height: 100%;
+    background-color: white;
+    margin-left: 2.5%;
+    margin-bottom: 2%;
+    border-radius: 9%;
+    position: relative;
+  
+
+    
+
+}
+
+.title-yamaha{
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding-top: 2.5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+.text-yamaha{
+    text-align: center;
+    font-size: 1.5rem;
+    padding-top: 2.5%;
+    padding-right: 20%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+
+}
+.img-yamaha{
+    width: 85%;
+    height: 70%;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.precio-{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-top: 2.5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+.precio-yamaha{
+    text-align: center;
+    font-size: 2.5rem;
+    padding-top: 2.5%;
+    padding-bottom: 2.0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+}
+/*
+PEGASUS
+*/
+/* 
+ */
+ .pegasus{
+    margin-top: 2%;
+    width: 30%;
+    height: 100%;
+    background-color: white;
+    margin-left: 2.5%;
+    margin-bottom: 2%;
+    border-radius: 9%;
+    position: relative;
+  
+
+    
+
+}
+
+.title-pegasus{
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding-top: 2.5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+.text-pegasus{
+    text-align: center;
+    font-size: 1.5rem;
+    padding-top: 2.5%;
+    padding-right: 20%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+
+}
+.img-pegasus{
+    width: 48%;
+    
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    margin-left: 25%;
+    margin-right: 10%;
+}
+.precio-{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-top: 2.5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+.precio-pegasus{
+    text-align: center;
+    font-size: 2.5rem;
+    padding-top: 2.5%;
+    padding-bottom: 2.0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+

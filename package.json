@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@ng-bootstrap/ng-bootstrap": "^13.1.0",
+    "bootstrap": "^5.2.2",
+    "coreui": "^0.4.2-alpha2",
+    "coreui-angular-dev": "github:coreui/angular",
+    "mdb-angular-ui-kit": "^3.0.0",
+    "ng-bootstrap": "^1.6.3"
+  }
+}
