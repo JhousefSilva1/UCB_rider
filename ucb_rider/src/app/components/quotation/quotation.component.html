@@ -3,7 +3,39 @@
 <p>quotation works!</p>
 
 <section class="inicio"> 
+    <section class="title">
+        <h1 class="title-quotation">COTIZA TU MOTOCICLETA</h1>
+        <p class="text-quotation">En Motorcycle, tenemos para ti una gran variedad de marcas, para que puedas elegir
+            la que más te guste. Nuestras marcas afiliadas son las mejores del mercado, con un alto nivel de calidad
+            y prestigio.
+        </p>
+    </section>
 
+    <!--formulario-->
+    <section class="form">
+        <form action="">
+            <div class="form-group">
+                <label for="name">Nombre</label>
+                    <input type="text" class="form-control" id="name" placeholder="Nombre" required>
+                <label for="lastname">Apellido</label>
+                    <input type="text" class="form-control" id="lastname" placeholder="Apellido" required>
+                <label for="email">Email</label>
+                    <input type="email" class="form-control" id="email" placeholder="Email" required>
+                <label for="phone">Telefono</label>
+                    <input type="number" class="form-control" id="phone" placeholder="Telefono" required> 
+                <label for="brand">Marca</label>
+                    <input type="text" class="form-control" id="brand" placeholder="Marca" required>
+                <label for="model">Modelo</label>
+                    <input type="text" class="form-control" id="model" placeholder="Modelo" required>  
+                <label for="year">Año</label>
+                    <input type="number" class="form-control" id="year" placeholder="Año" required>
+                <label for="price">Precio</label>  
+                    <input type="number" class="form-control" id="price" placeholder="Precio" required>
+                <label for="message">Mensaje</label>
+                    <textarea class="form-control" id="message" rows="3" placeholder="Mensaje"></textarea>
+                <button type="submit" class="btn btn-primary">Enviar</button>
+            </div>
+            </form>
 
 </section>
 <app-footer></app-footer>
